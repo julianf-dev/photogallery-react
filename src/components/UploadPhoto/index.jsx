@@ -1,5 +1,5 @@
 export const UploadPhoto = () => {
   return (
-    <div>index</div>
+    <div>Hola desde la carga de fotos upload</div>
   )
 }
